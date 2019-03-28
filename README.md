@@ -1,0 +1,2 @@
+# Multidimensional-Scaling
+mplement multidimensional scaling (MDS) from scratch. You may use standard matrix/vector libraries (e.g. numpy) but you must implement two dimensional MDS itself on your own and not use an existing software package.Recall that MDS starts with a similarity matrix and attempts to find an arrangement of points such that the distances match the observed similarities. In our implementation, we will try to minimize a quantitycalled the stress, which is the squared difference between the distances of items in psychological space and in MDS space. 
